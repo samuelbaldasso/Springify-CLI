@@ -1,4 +1,4 @@
-# hexagen-cli
+# Springify
 
 A command-line tool that generates Java projects scaffolded in **Hexagonal Architecture**
 (Ports and Adapters) from nothing but a domain name — by asking an LLM to design and write
@@ -122,4 +122,3 @@ com.springify.cli
   and `java.net.http.HttpClient` (JDK built-in) for the OpenAI Chat Completions API
 - [Jackson](https://github.com/FasterXML/jackson) for JSON parsing
 - Maven, with an optional GraalVM native-image profile
-# springify
